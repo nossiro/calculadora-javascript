@@ -1,8 +1,14 @@
+body {
+    background-image: url(bg.png);
+}
+
 .calculadora {
+
+    position: fixed;
     margin-top: 40px;
     border: solid 1px #000;
     padding: 20px;
-    background-color: #2E2E2E;
+    background-color: #2a00c3;
     border-radius: 10px;
     box-shadow: 1px 1px 5px #000;
 }
